@@ -1,4 +1,4 @@
-### Javascript comments and Shortcuts
+### Javascript Comments and Shortcuts
 
 - `//` - single line comment
 - `/* */` - multi line comment

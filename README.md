@@ -1,4 +1,4 @@
-### JavaScript Course: From Scratch to Advanced
+# JavaScript Course: From Scratch to Advanced
 
 Welcome to the JavaScript Course: From Scratch to Advanced! This comprehensive course is designed to take you on a journey through the fundamentals of JavaScript programming all the way to advanced concepts, equipping you with the skills you need to become a proficient JavaScript developer.
 
