@@ -9,4 +9,4 @@ In this course, you will start from the very basics of JavaScript, learning abou
 ## What You'll Learn
 
 - [1. JavaScript - Vairables && Data-types](./01-variables-data-types)
-- [2. JavaScript - Arrays and objects ](./02-comments-shortcuts)
+- [2. JavaScript - Arrays and objects ](./02-arrays-and-objects)
