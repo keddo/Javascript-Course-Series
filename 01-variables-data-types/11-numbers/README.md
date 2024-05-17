@@ -50,6 +50,4 @@ x = num.valueOf();
 // Largest and smallest possible number
 x = Number.MAX_VALUE;
 x = Number.MIN_VALUE;
-
-console.log(x);
 ```

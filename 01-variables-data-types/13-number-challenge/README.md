@@ -28,7 +28,7 @@ console.log(rmOutput); // 31 % 15 = 1
 <details>
   <summary>Click For Solution</summary>
   
-  ```JavaScript
+```JavaScript
 x = Math.floor(Math.random() * 100) + 1;
 y = Math.floor(Math.random() * 50) + 1;
 
@@ -58,8 +58,5 @@ const rmOutput = `${x} % ${y} = ${rm}`;
 console.log(rmOutput);
 
 ```
-
 </details>
-
-
 ```

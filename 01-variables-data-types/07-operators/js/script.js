@@ -48,7 +48,7 @@ x = 2 != '2';
 // Not equal to (Type and value)
 x = 2 !== 2;
 
-// Greater than and less than
+// Greater than and less than | comparision operator
 x = 10 > 5;
 x = 10 < 5;
 x = 10 <= 5;

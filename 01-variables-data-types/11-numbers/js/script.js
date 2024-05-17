@@ -17,7 +17,9 @@ x = num.toPrecision(3);
 x = num.toExponential(2);
 
 // toLocaleString() - returns a string representation of the number, using the current locale
-x = num.toLocaleString('en-US');
+sep = 1000000;
+// locale 'en-GB'
+x = sep.toLocaleString('en-US');
 
 // valueOf - Get value
 x = num.valueOf();
